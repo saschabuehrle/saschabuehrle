@@ -21,14 +21,14 @@ Integrates with: n8n · LangChain · OpenAI Agents SDK · CrewAI · Google ADK �
 ### Contributor
 
 | Project | Stars |
-|---------|------:|
-| [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) | — 23.9k |
-| [aden-hive/hive](https://github.com/aden-hive/hive) | — 9.8k |
-| [raycast/extensions](https://github.com/raycast/extensions) | — 7.3k |
-| [neomjs/neo](https://github.com/neomjs/neo) | — 3.2k |
-| [generalaction/emdash](https://github.com/generalaction/emdash) | — 2.8k |
-| [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) | — 2.3k |
-| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | — 2.3k |
+|---------|-------|
+| [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) | ![GitHub stars](https://img.shields.io/github/stars/PrefectHQ/fastmcp?style=flat-square&label=) |
+| [aden-hive/hive](https://github.com/aden-hive/hive) | ![GitHub stars](https://img.shields.io/github/stars/aden-hive/hive?style=flat-square&label=) |
+| [raycast/extensions](https://github.com/raycast/extensions) | ![GitHub stars](https://img.shields.io/github/stars/raycast/extensions?style=flat-square&label=) |
+| [neomjs/neo](https://github.com/neomjs/neo) | ![GitHub stars](https://img.shields.io/github/stars/neomjs/neo?style=flat-square&label=) |
+| [generalaction/emdash](https://github.com/generalaction/emdash) | ![GitHub stars](https://img.shields.io/github/stars/generalaction/emdash?style=flat-square&label=) |
+| [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) | ![GitHub stars](https://img.shields.io/github/stars/aliasvault/aliasvault?style=flat-square&label=) |
+| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | ![GitHub stars](https://img.shields.io/github/stars/can1357/oh-my-pi?style=flat-square&label=) |
 
 ---
 
