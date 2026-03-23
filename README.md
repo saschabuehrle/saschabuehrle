@@ -26,6 +26,7 @@ Integrates with: n8n · LangChain · OpenAI Agents SDK · CrewAI · Google ADK �
 | [aden-hive/hive](https://github.com/aden-hive/hive) | — 9.8k |
 | [raycast/extensions](https://github.com/raycast/extensions) | — 7.3k |
 | [neomjs/neo](https://github.com/neomjs/neo) | — 3.2k |
+| [generalaction/emdash](https://github.com/generalaction/emdash) | — 2.8k |
 | [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) | — 2.3k |
 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | — 2.3k |
 
