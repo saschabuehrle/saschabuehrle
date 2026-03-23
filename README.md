@@ -12,7 +12,7 @@ Currently focused on **AI agent infrastructure** and **open-source tooling**.
 
 **[cascadeflow](https://github.com/lemony-ai/cascadeflow)** — An open-source AI agent runtime intelligence layer (Python & TypeScript). Optimizes cost, latency, quality, and compliance inside agent execution loops through speculative cascading. 40–85% cost reduction, sub-5ms overhead.
 
-Integrates with: n8n · LangChain · OpenAI Agents SDK · CrewAI · Google ADK · Vercel AI SDK · Ollama · vLLM
+Integrates with: `n8n` · `LangChain` · `OpenAI Agents SDK` · `CrewAI` · `Google ADK` · `Vercel AI SDK` · `Ollama` · `vLLM`
 
 **[@cascadeflow/n8n-nodes-cascadeflow](https://www.npmjs.com/package/@cascadeflow/n8n-nodes-cascadeflow)** — Official n8n community nodes for cascadeflow, bringing intelligent model cascading to workflow automation.
 
